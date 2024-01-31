@@ -1,6 +1,6 @@
 
 
-<h1>Hi 👋, I'm Jeslyn Pham</h1>
+<h1>Hi 👋, I'm Jeslyn Pham!</h1>
 <h3>I am a student at Saskatchewan Polytechnic and a passionate software/application developer! I love programming and solving coding problems!</h3>
 
 - 📫 How to reach me **pham9467@saskpolytech.ca**
